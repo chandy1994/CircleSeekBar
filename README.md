@@ -19,6 +19,15 @@ Step 2. Add the dependency
 	
 	
 
+the style of the CircleSeekBar :  
+
+        <attr name="android:thumb" />
+        <attr name="progress_width" format="dimension" />
+        <attr name="progress_background" format="color" />
+        <attr name="progress_front" format="color" />
+        <attr name="progress_max" format="integer" />
+        <attr name="thumbSize" format="dimension"/>  
+
 
 
 MIT License
